@@ -8,7 +8,7 @@ public class BookDemo {
 //            Create a new class named Book and give it at least (4) properties (such as title, author, number of pages, etc.).:Done
 //            Create getter & setter methods for each variable.:Done
 //            Create a printDetails() method which will display all available information about a Book object. :Done
-//            Create a new class named Library and give it (1) property: an array of Book objects.
+//            Create a new class named Library and give it (1) property: an array of Book objects.:Done
 //            Library should have a numberOfBooksInLibrary() method which displays how many Books the user has in their Library.
 //
 //            In a class named BookDemo, give the user (3) options: they can see how many books they have, add a book to their Library, or exit the program.

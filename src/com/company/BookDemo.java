@@ -1,13 +1,13 @@
 package com.company;
 
-public class Main {
+public class BookDemo {
 
     public static void main(String[] args) {
 	// write your code here
 
 //            Create a new class named Book and give it at least (4) properties (such as title, author, number of pages, etc.).:Done
-//            Create getter & setter methods for each variable. 
-//            Create a printDetails() method which will display all available information about a Book object.
+//            Create getter & setter methods for each variable.:Done
+//            Create a printDetails() method which will display all available information about a Book object. :Done
 //            Create a new class named Library and give it (1) property: an array of Book objects.
 //            Library should have a numberOfBooksInLibrary() method which displays how many Books the user has in their Library.
 //

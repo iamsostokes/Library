@@ -44,4 +44,12 @@ public class Book {
     public void setCompletedReading(boolean completedReading) {
         this.completedReading = completedReading;
     }
+
+    public  void printDetails() {
+        System.out.println("The title of the book is " + title + "and the genre of the book is " + genre + ". The number" +
+                " of pages in the book is " + numberOfPages + ". Have I completed reading this book. " + completedReading);
+    }
+
+
+
 }

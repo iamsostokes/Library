@@ -2,7 +2,14 @@ package com.company;
 
 public class Library {
 
-        Book[] bookObject = new Book[10];
+      private Book[] bookObject = new Book[10];
+//      private int i = 0;
+//        public int add(Book);{
+//            if (i < bookObject.length){
+//                bookObject[i] = Book;
+//            }
+//    }
+
 
         public int numberOfBooks(){
 
